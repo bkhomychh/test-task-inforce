@@ -1,0 +1,18 @@
+@import './normalize.css';
+@import './reset.custom.css';
+
+html,
+body {
+  min-height: 100vh;
+  min-width: 360px;
+}
+
+.global-scroll-block {
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+
+  overflow-y: auto;
+}

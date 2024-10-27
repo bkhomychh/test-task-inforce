@@ -1,0 +1,40 @@
+.wrapper {
+  margin-top: 24px;
+  display: flex;
+  flex-direction: column;
+  row-gap: 12px;
+}
+
+.imgWrapper {
+  margin: 0 auto;
+  height: 300px;
+  width: 300px;
+
+  overflow: hidden;
+}
+
+.img {
+  height: 100%;
+  width: 100%;
+
+  transition: transform 250ms ease-in-out;
+  object-fit: cover;
+}
+
+.details {
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  row-gap: 4px;
+
+  font-size: 14px;
+}
+
+.name {
+  font-size: 36px;
+  font-weight: 700;
+}
+
+.property {
+  font-weight: 600;
+}

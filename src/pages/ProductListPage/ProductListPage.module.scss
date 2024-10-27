@@ -1,0 +1,11 @@
+.productList {
+  margin-top: 24px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  justify-content: flex-start;
+  gap: 12px;
+
+  & > li > a {
+    height: 100%;
+  }
+}
