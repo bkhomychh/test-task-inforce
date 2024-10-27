@@ -13,7 +13,6 @@ API integration, and routing** to demonstrate proficiency with the required tech
 - [Environment Variables](#environment-variables)
 - [Scripts](#scripts)
 - [Usage](#usage)
-- [License](#license)
 
 ---
 
