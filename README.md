@@ -45,7 +45,7 @@ API integration, and routing** to demonstrate proficiency with the required tech
 **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/test-task-inforce.git
+git clone https://github.com/bkhomychh/test-task-inforce.git
 cd test-task-inforce
 npm install
 ```
